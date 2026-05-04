@@ -9,3 +9,6 @@ print(a)
 
 a = None
 print(a)
+
+a = True
+print(a)
